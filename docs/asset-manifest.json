@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "https://frontend-gxg.github.io/react-learn/static/css/main.073c9b0a.css",
+    "main.js": "https://frontend-gxg.github.io/react-learn/static/js/main.354956b9.js",
+    "static/js/787.e6351c76.chunk.js": "https://frontend-gxg.github.io/react-learn/static/js/787.e6351c76.chunk.js",
+    "static/media/logo.svg": "https://frontend-gxg.github.io/react-learn/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "https://frontend-gxg.github.io/react-learn/index.html",
+    "main.073c9b0a.css.map": "https://frontend-gxg.github.io/react-learn/static/css/main.073c9b0a.css.map",
+    "main.354956b9.js.map": "https://frontend-gxg.github.io/react-learn/static/js/main.354956b9.js.map",
+    "787.e6351c76.chunk.js.map": "https://frontend-gxg.github.io/react-learn/static/js/787.e6351c76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.354956b9.js"
+  ]
+}
