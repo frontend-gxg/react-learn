@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { createHashRouter, RouterProvider } from "react-router-dom";
 import { all, createStarryNight } from '@wooorm/starry-night';
 import Home from './components/Home';
 import MarkdownWrapper from './components/MarkdownWrapper';
@@ -18,7 +18,7 @@ const links = [
 
 console.log("==============", process.env.PUBLIC_URL);
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: process.env.PUBLIC_URL + "/",
     element: <Home links={links} />
