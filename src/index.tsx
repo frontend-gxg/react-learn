@@ -27,10 +27,9 @@ const router = createBrowserRouter([
     path: process.env.PUBLIC_URL + "/:path",
     element: <MarkdownWrapper />
   },
-  // {
-  //   path: "*",
-  //   element: <Home links={links} />
-  // }
+  {
+    element: <div>Hello World</div>
+  }
 ]);
 
 createStarryNight(all).then(  
