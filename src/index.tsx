@@ -13,6 +13,11 @@ const links = [
   { title: "matrixorigin开发记录", path: "blog004" },
   { title: "arana开发记录", path: "blog005" },
   { title: "dask-sql开发记录", path: "blog006" },
+  { title: "货币政策与净出口的一些思考", path: "blog009" },
+  { title: "关于政府，企业和个人模型", path: "blog010" },
+  { title: "置身事外", path: "blog011" },
+  { title: "证券分析、聪明的投资者", path: "blog012" },
+  { title: "德扑", path: "blog008" },
   { title: "云南2022-08-31", path: "blog007" },
 ];
 
