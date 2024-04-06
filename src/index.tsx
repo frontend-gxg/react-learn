@@ -26,6 +26,10 @@ const router = createBrowserRouter([
   {
     path: process.env.PUBLIC_URL + "/:path",
     element: <MarkdownWrapper />
+  },
+  {
+    path: "*",
+    element: <Home links={links} />
   }
 ]);
 
