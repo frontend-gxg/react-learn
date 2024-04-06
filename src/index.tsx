@@ -20,11 +20,11 @@ console.log("==============", process.env.PUBLIC_URL);
 
 const router = createHashRouter([
   {
-    path: process.env.PUBLIC_URL + "/",
+    path: "/",
     element: <Home links={links} />
   },
   {
-    path: process.env.PUBLIC_URL + "/:path",
+    path: "/:path",
     element: <MarkdownWrapper />
   },
   // {
