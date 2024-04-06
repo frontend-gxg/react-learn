@@ -6,7 +6,7 @@ function MarkdownWrapper() {
   const params = useParams();
   const [markdown, setMarkdown] = useState("");
   async function fetchMarkdown() {
-    const response = await fetch(process.env.PUBLIC_URL + "/blogs/" + params.path + ".txt");
+    const response = await fetch(process.env.PUBLIC_URL + "/blogs/" + params.path + ".md");
     const result = await response.text();
     setMarkdown(result);
   }
