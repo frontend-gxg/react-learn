@@ -17,6 +17,7 @@ const links = [
   { title: "关于政府，企业和个人模型", path: "blog010" },
   { title: "置身事外", path: "blog011" },
   { title: "证券分析、聪明的投资者", path: "blog012" },
+  { title: "财务自由表", path: "blog013" },
   { title: "德扑", path: "blog008" },
   { title: "云南2022-08-31", path: "blog007" },
 ];
