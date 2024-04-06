@@ -27,9 +27,9 @@ const router = createHashRouter([
     path: process.env.PUBLIC_URL + "/:path",
     element: <MarkdownWrapper />
   },
-  {
-    element: <div>Hello World</div>
-  }
+  // {
+  //   element: <div>Hello World</div>
+  // }
 ]);
 
 createStarryNight(all).then(  
