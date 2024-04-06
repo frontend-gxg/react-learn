@@ -16,6 +16,8 @@ const links = [
   { title: "云南2022-08-31", path: "blog007" },
 ];
 
+console.log("==============", process.env.PUBLIC_URL);
+
 const router = createBrowserRouter([
   {
     path: process.env.PUBLIC_URL + "/",
