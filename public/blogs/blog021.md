@@ -29,12 +29,12 @@
 
 ### 区块图
 
-![image](https://github.com/frontend-gxg/pic_bed/blob/main/010.png?raw=true)
-![image](https://github.com/frontend-gxg/pic_bed/blob/main/011.png?raw=true)
+![image](https://github.com/frontend-gxg/pic_bed/blob/main/010.jpg?raw=true)
+![image](https://github.com/frontend-gxg/pic_bed/blob/main/011.jpg?raw=true)
 
 ### 板块图
 
-![image](https://github.com/frontend-gxg/pic_bed/blob/main/012.png?raw=true)
+![image](https://github.com/frontend-gxg/pic_bed/blob/main/012.jpg?raw=true)
 
 ### 参考
 
