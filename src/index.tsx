@@ -27,6 +27,7 @@ const links = [
   { title: "电影", path: "blog015" },
   { title: "游戏", path: "blog016" },
   { title: "德扑", path: "blog008" },
+  { title: "世界旅游", path: "blog022" }, 
   { title: "云南2022-08-31", path: "blog007" },
 ];
 
