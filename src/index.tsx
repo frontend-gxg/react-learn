@@ -21,14 +21,17 @@ const links = [
   { title: "财务自由表", path: "blog013" },
   { title: "个人所得税", path: "blog014" },
   { title: "内卷", path: "blog018" },
+  { title: "汽车分类", path: "blog024" },
   { title: "买房", path: "blog021" },
   { title: "验房", path: "blog019" },
   { title: "收房", path: "blog020" },
+  { title: "装修", path: "blog023" },
   { title: "电影", path: "blog015" },
   { title: "游戏", path: "blog016" },
   { title: "德扑", path: "blog008" },
   { title: "世界旅游", path: "blog022" }, 
-  { title: "云南2022-08-31", path: "blog007" },
+  { title: "云南20220831", path: "blog007" },
+  { title: "普吉岛20240906", path: "blog025" },
 ];
 
 const router = createHashRouter([
