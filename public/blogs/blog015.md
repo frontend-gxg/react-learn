@@ -14,6 +14,7 @@
 | 会计刺客             | 动作       | [会计刺客](https://movie.douban.com/subject/24325861/)                                                       | [北境影视](https://www.bilibili.com/video/BV1gm42147mT)         |      |
 | 边境杀手             | 动作       | [边境杀手1](https://movie.douban.com/subject/25881247/)、[边境杀手2](https://movie.douban.com/subject/26627736) | [时光琉影](https://www.bilibili.com/video/BV11r421F7Fz/)        |      |
 | 赴汤蹈火             | 犯罪       | [赴汤蹈火](https://movie.douban.com/subject/26389148/)                                                       | [北境影视](https://www.bilibili.com/video/BV12M4m117j9/)        |      |
+| 冰血暴 第一季        | 犯罪       | [冰血暴 第一季](https://movie.douban.com/subject/24297912/)                                                  | [扁豆看电影](https://www.bilibili.com/video/BV1BS4y1Q7Ny/)      |      |
 | 侠探杰克 第二季      | 动作       | [侠探杰克 第二季](https://movie.douban.com/subject/35763119/)                                                | [噔噔悬疑社](https://www.bilibili.com/video/BV1oa4y1C7Rg/)      |      |
 | 记住                 | 悬疑       | [记住](https://movie.douban.com/subject/25958713/)                                                           | [悬疑迷小冬](https://www.bilibili.com/video/BV13Z421x7uR)       |      |
 | 蛛丝马迹             | 悬疑       | [蛛丝马迹](https://movie.douban.com/subject/30489388/)                                                       | [悬疑迷小冬](https://www.bilibili.com/video/BV15w4m1S7M6/)      |      |
