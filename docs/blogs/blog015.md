@@ -6,6 +6,7 @@
 | 黑狱断肠歌之砌生猪肉 | 犯罪       | [黑狱断肠歌之砌生猪肉](https://movie.douban.com/subject/1394466/)                                            | [鸭鸭经典电影解说](https://www.bilibili.com/video/BV1P4421X7k1) |      |
 | 机动部队-同袍        | 犯罪       | [机动部队-同袍](https://movie.douban.com/subject/3391271/)                                                   | [多余混剪](https://www.bilibili.com/video/BV1Qx4y1i7z1)         |      |
 | 追缉                 | 犯罪       | [追缉](https://movie.douban.com/subject/35427293/)                                                           | [影岛阿蛙](https://www.bilibili.com/video/BV1gH4y1g7Cg)         |      |
+| 爆裂刑警             | 犯罪       | [爆裂刑警](https://movie.douban.com/subject/1304837/)                                                        | [乱乱解说刊](https://www.bilibili.com/video/BV1iwtfe9EaG)       |      |
 | 风中有朵雨做的云     | 犯罪       | [风中有朵雨做的云](https://movie.douban.com/subject/26728669/)                                               | [油炸包龙星咯](https://www.bilibili.com/video/BV1Yr421c73n)     |      |
 | 北京乐与路           | 剧情       | [北京乐与路](https://movie.douban.com/subject/1298213/)                                                      | [Kehlsteinhaus](https://www.bilibili.com/video/BV1ZT421a7Xm/)   |      |
 | 神枪手               | 动作       | [神枪手](https://movie.douban.com/subject/3002820/)                                                          | [暖心影视](https://www.bilibili.com/video/BV1uG4y1Z7Zr)         |      |
@@ -13,6 +14,7 @@
 | 极线杀手             | 动作       | [极线杀手](https://movie.douban.com/subject/27180599/)                                                       | [Dd不会剪辑](https://www.bilibili.com/video/BV1nA4m1w7Rt)       |      |
 | 会计刺客             | 动作       | [会计刺客](https://movie.douban.com/subject/24325861/)                                                       | [北境影视](https://www.bilibili.com/video/BV1gm42147mT)         |      |
 | 边境杀手             | 动作       | [边境杀手1](https://movie.douban.com/subject/25881247/)、[边境杀手2](https://movie.douban.com/subject/26627736) | [时光琉影](https://www.bilibili.com/video/BV11r421F7Fz/)        |      |
+| 逆岭                 | 动作       | [逆岭](https://movie.douban.com/subject/34884621/)                                                           | [星光视界1](https://www.bilibili.com/video/BV1SitZerEPi)        |      |
 | 赴汤蹈火             | 犯罪       | [赴汤蹈火](https://movie.douban.com/subject/26389148/)                                                       | [北境影视](https://www.bilibili.com/video/BV12M4m117j9/)        |      |
 | 冰血暴 第一季        | 犯罪       | [冰血暴 第一季](https://movie.douban.com/subject/24297912/)                                                  | [扁豆看电影](https://www.bilibili.com/video/BV1BS4y1Q7Ny/)      |      |
 | 侠探杰克 第二季      | 动作       | [侠探杰克 第二季](https://movie.douban.com/subject/35763119/)                                                | [噔噔悬疑社](https://www.bilibili.com/video/BV1oa4y1C7Rg/)      |      |
