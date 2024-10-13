@@ -37,6 +37,7 @@ const links = [
   { title: "德扑", path: "blog008" },
   { title: "观后感", path: "blog031" },
   { title: "世界旅游", path: "blog022" }, 
+  { title: "极圈", path: "blog033" },
   { title: "云南20220831", path: "blog007" },
   { title: "普吉岛20240906", path: "blog025" },
 ];

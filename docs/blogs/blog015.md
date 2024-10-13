@@ -24,4 +24,5 @@
 | 吐司                 | 喜剧       | [吐司](https://movie.douban.com/subject/4904026/)                                                            | [电影少女丹](https://www.bilibili.com/video/BV17s421T76e/)      |      |
 | 天邪鬼               | 悬疑       | [天邪鬼](https://movie.douban.com/subject/30345133/)                                                         | [噔噔悬疑社](https://www.bilibili.com/video/BV1QT421U7sb/)      |      |
 | 垫底辣妹             | 剧情       | [垫底辣妹](https://movie.douban.com/subject/26259677/)                                                       | [长片短解](https://www.bilibili.com/video/BV1VH4y1P7Vk)         |      |
+| 如积雪般的永寂       | 悬疑       | [如积雪般的永寂](https://movie.douban.com/subject/36913059/)                                                 | [竖了个三](https://www.bilibili.com/video/BV1SvtWe5EVg/)        |      |
 | 地狱乐               | 日漫       | [地狱乐](https://movie.douban.com/subject/35337634/)                                                         | [芙芙家的洗碗君](https://www.bilibili.com/video/BV1Bz4y1i7hC)   |      |
