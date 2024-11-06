@@ -16,6 +16,7 @@
 | 边境杀手             | 动作       | [边境杀手1](https://movie.douban.com/subject/25881247/)、[边境杀手2](https://movie.douban.com/subject/26627736) | [时光琉影](https://www.bilibili.com/video/BV11r421F7Fz/)        |      |
 | 逆岭                 | 动作       | [逆岭](https://movie.douban.com/subject/34884621/)                                                           | [星光视界1](https://www.bilibili.com/video/BV1SitZerEPi)        |      |
 | 赴汤蹈火             | 犯罪       | [赴汤蹈火](https://movie.douban.com/subject/26389148/)                                                       | [北境影视](https://www.bilibili.com/video/BV12M4m117j9/)        |      |
+| 冷血动物             | 犯罪       | [冷血动物](https://movie.douban.com/subject/35603697/)                                                       | [疯一样德男人](https://www.bilibili.com/video/BV1Fo12YnEcm/)    |      |
 | 冰血暴 第一季        | 犯罪       | [冰血暴 第一季](https://movie.douban.com/subject/24297912/)                                                  | [扁豆看电影](https://www.bilibili.com/video/BV1BS4y1Q7Ny/)      |      |
 | 侠探杰克 第二季      | 动作       | [侠探杰克 第二季](https://movie.douban.com/subject/35763119/)                                                | [噔噔悬疑社](https://www.bilibili.com/video/BV1oa4y1C7Rg/)      |      |
 | 记住                 | 悬疑       | [记住](https://movie.douban.com/subject/25958713/)                                                           | [悬疑迷小冬](https://www.bilibili.com/video/BV13Z421x7uR)       |      |
