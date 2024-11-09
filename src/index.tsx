@@ -47,6 +47,7 @@ const links = [
   { title: "什么是虚化", path: "blog036" },
   { title: "电影", path: "blog015" },
   { title: "游戏", path: "blog016" },
+  { title: "电视", path: "blog048" },
   { title: "switch", path: "blog029" },
   { title: "德扑", path: "blog008" },
   { title: "观后感", path: "blog031" },
