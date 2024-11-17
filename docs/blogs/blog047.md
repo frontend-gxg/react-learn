@@ -31,7 +31,6 @@
 - Zephyr
 - ThreadX
 - RT-Thread
-- OpenWrt
 - EulerOS
 - HarmonyOS
 - HUAWEI LiteOS
