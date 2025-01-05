@@ -41,6 +41,7 @@ const links = [
   { title: "互联网", path: "blog046" },
   { title: "汽车分类", path: "blog024" },
   { title: "购车", path: "blog027" },
+  { title: "居住证", path: "blog052" },
   { title: "买房", path: "blog021" },
   { title: "验房", path: "blog019" },
   { title: "收房", path: "blog020" },

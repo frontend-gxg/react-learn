@@ -1,0 +1,4 @@
+- [如何优雅地在上海办房屋租赁合同登记备案?](https://www.zhihu.com/question/41468117/answer/91098338)
+- [上海居住证办理条件以及流程？](https://www.zhihu.com/question/23204955/answer/92292291)
+- [上海办理居住证房屋租赁委托书](https://wenku.baidu.com/view/9840c4339a6648d7c1c708a1284ac850ad0204b6.html)
+- [单位授权办理居住证委托书模板怎么写？](https://china.findlaw.cn/ask/question_35150808.html)
