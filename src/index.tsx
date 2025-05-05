@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { createHashRouter, RouterProvider } from "react-router-dom";
-import { all, createStarryNight } from '@wooorm/starry-night';
+import { common, createStarryNight } from '@wooorm/starry-night';
 import Home from './components/Home';
 import MarkdownWrapper from './components/MarkdownWrapper';
 
@@ -77,7 +77,7 @@ const router = createHashRouter([
   }
 ]);
 
-createStarryNight(all).then(  
+createStarryNight(common).then(  
   function (starryNight) {
     const missing = starryNight.missingScopes();
     if (missing.length > 0) {
