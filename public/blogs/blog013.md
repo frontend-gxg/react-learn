@@ -6,6 +6,6 @@
 
 ## 投资理财
 
-下面是各种投资标的的年化收益率：
+下面是各种投资标的的投资回报率：
 
 <img style="display: block;margin-left: auto;margin-right: auto;" src ="https://raw.gitmirror.com/frontend-gxg/pic_bed/refs/heads/main/036.jpg">
