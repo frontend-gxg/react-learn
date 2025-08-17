@@ -15,6 +15,24 @@
 
 ## 基本格式
 
+### 参数
+
+- 码率
+  - $\text{视频体积}=\text{码率}\times\text{视频时长}=\frac{\text{分辨率}\times\text{帧率}}{\text{压缩率}}\times\text{视频时长}$
+  - 受到带宽影响
+- 分辨率
+  - [视频直播支持的分辨率和对应合适的码率](https://help.aliyun.com/zh/live/support/what-resolutions-and-bitrates-does-apsaravideo-live-support)
+  - 受到设备分辨率影响
+- 帧率
+  - 视频一般24帧，游戏帧数比视频多
+- 压缩率
+  - 空间
+    - 锐化
+  - 时间 
+  - AI
+    - 超分
+    - 补帧
+
 ### 参考
 
 - [一文看懂：史上最通俗的视频编码技术详解](https://www.easemob.com/news/3614)
