@@ -2,6 +2,9 @@
 
 * 同一个点出发的光线经过凸透镜最终会汇聚到一点
 * 同一平面上的两个点发射的光线对应的汇聚点也在同一平面上
+
+![img](https://github.com/frontend-gxg/pic_bed/blob/main/038.png?raw=true)
+
 * 点光源成像规律
 
 ![img](https://github.com/frontend-gxg/pic_bed/blob/main/024.png?raw=true)
@@ -23,6 +26,10 @@
 * ISO越大，即CMOS对光越敏感
 * 快门越长，即曝光时间越长
 
+如下图：
+
+![img](https://github.com/frontend-gxg/pic_bed/blob/main/037.jpg?raw=true)
+
 ## 对焦、景深、弥散、虚化、光圈的影响
 
 - [相机的对焦是什么意思？为什么需要对焦？](https://www.zhihu.com/question/21427158/answer/340878786)
@@ -30,6 +37,11 @@
 ## 长焦、窄角 vs 短焦、广角
 
 - [长短焦距有什么根本上的区别？](https://www.zhihu.com/question/359855494/answer/927006700)
+
+## 光场相机
+
+- 普通相机传感器每一块主要记录来自各个方向的光形成的辐照度（irradiance），然后综合生成照片图像
+- 光场相机传感器每一块主要记录来自各个方向的光的辐亮度（radiance），可以根据不同的参数还原照片
 
 ## 其他
 

@@ -19,6 +19,17 @@
 
 最后回到虚化的概念，虚化就是把物体对用的弥散圆的半径调大，以至于范围超出人眼的容忍度之外的过程
 
+## 弥散圆（CoC）和景深（DYI）的计算
+
+- 弥散圆（CoC）
+
+![img](https://github.com/frontend-gxg/pic_bed/blob/main/039.jpg?raw=true)
+![img](https://github.com/frontend-gxg/pic_bed/blob/main/040.jpg?raw=true)
+
+- 景深（DYI）
+
+![img](https://github.com/frontend-gxg/pic_bed/blob/main/041.png?raw=true)
+
 ## 怎么虚化
 
 虚化主要有两种方式：
