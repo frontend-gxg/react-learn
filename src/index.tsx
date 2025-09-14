@@ -8,6 +8,7 @@ import MarkdownWrapper from './components/MarkdownWrapper';
 const links = [
   { title: "测试markdown渲染效果", path: "blog000" },
   { title: "测试latex渲染效果", path: "blog001" },
+  { title: "方向", path: "blog058" },
   { title: "openraft开发记录", path: "blog002" },
   { title: "databend开发记录", path: "blog003" },
   { title: "matrixorigin开发记录", path: "blog004" },

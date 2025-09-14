@@ -21,6 +21,7 @@
 | 侠探杰克：永不回头       | 犯罪       | [侠探杰克：永不回头](https://movie.douban.com/subject/25789402/)                                             | [辉哥探影](https://www.bilibili.com/video/BV1vQQFYfEpW/)        |      |
 | 侠探杰克 第二季          | 动作       | [侠探杰克 第二季](https://movie.douban.com/subject/35763119/)                                                | [噔噔悬疑社](https://www.bilibili.com/video/BV1oa4y1C7Rg/)      |      |
 | 寻求正义                 | 剧情       | [寻求正义](https://movie.douban.com/subject/3033030/)                                                        | [整点电影看看](https://www.bilibili.com/video/BV18rRhYmEvc/)    |      |
+| 机械师                   | 悬疑       | [机械师](https://movie.douban.com/subject/1309160/)                                                          | [小能能能手](https://www.bilibili.com/video/BV1L1h9zgEVc/)      |      |
 | 记住                     | 悬疑       | [记住](https://movie.douban.com/subject/25958713/)                                                           | [悬疑迷小冬](https://www.bilibili.com/video/BV13Z421x7uR)       |      |
 | 蛛丝马迹                 | 悬疑       | [蛛丝马迹](https://movie.douban.com/subject/30489388/)                                                       | [悬疑迷小冬](https://www.bilibili.com/video/BV15w4m1S7M6/)      |      |
 | 巴斯特·斯克鲁格斯的歌谣 | 剧情       | [巴斯特·斯克鲁格斯的歌谣](https://movie.douban.com/subject/26952704/)                                       | [绝命墨菲](https://www.bilibili.com/video/BV19PNGe4EKS)         |      |

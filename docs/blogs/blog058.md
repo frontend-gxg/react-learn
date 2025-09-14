@@ -1,0 +1,1 @@
+<img style="display: block;margin-left: auto;margin-right: auto;" src ="https://raw.gitmirror.com/frontend-gxg/pic_bed/refs/heads/main/042.png">
