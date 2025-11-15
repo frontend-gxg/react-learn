@@ -62,6 +62,7 @@ const links = [
   { title: "观后感", path: "blog031" },
   { title: "眼镜", path: "blog054" },
   { title: "世界旅游", path: "blog022" }, 
+  { title: "中国", path: "blog060" },
   { title: "日本", path: "blog050" },
   { title: "极圈", path: "blog033" },
   { title: "云南20220831", path: "blog007" },
