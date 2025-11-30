@@ -43,6 +43,7 @@ const links = [
   { title: "股票", path: "blog049" },
   { title: "黄金", path: "blog055" },
   { title: "内卷", path: "blog018" },
+  { title: "决策", path: "blog061" },
   { title: "互联网", path: "blog046" },
   { title: "汽车分类", path: "blog024" },
   { title: "购车", path: "blog027" },
