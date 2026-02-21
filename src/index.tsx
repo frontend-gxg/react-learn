@@ -26,6 +26,7 @@ const links = [
   { title: "go benchmark只运行一次", path: "blog043" },
   { title: "python中的immutable", path: "blog045" },
   { title: "python web框架", path: "blog026" },
+  { title: "前端", path: "blog063" },
   { title: "视频原理", path: "blog034" },
   { title: "GITHUB庆祝1亿开发者的动画脚本", path: "blog037" },
   { title: "压缩理论", path: "blog056" },
