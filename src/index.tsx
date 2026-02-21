@@ -32,6 +32,7 @@ const links = [
   { title: "时间规划", path: "blog030" },
   { title: "习惯", path: "blog057" },
   { title: "输出", path: "blog028" },
+  { title: "性爱", path: "blog062" },
   { title: "资料", path: "blog017" },
   { title: "货币政策与净出口的一些思考", path: "blog009" },
   { title: "关于政府，企业和个人模型", path: "blog010" },
