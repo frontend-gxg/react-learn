@@ -27,7 +27,7 @@
 
 - 整体关系如下：
 
-<img style="display: block;margin-left: auto;margin-right: auto;" src ="https://raw.gitmirror.com/frontend-gxg/pic_bed/refs/heads/main/035.jpg">
+`<img style="display: block;margin-left: auto;margin-right: auto;" src ="https://raw.gitmirror.com/frontend-gxg/pic_bed/refs/heads/main/035.jpg">`
 
 - 糖和蛋白质都会转化成脂肪
 - 脂肪和蛋白质都会转化成糖
@@ -63,7 +63,7 @@
     - 手：哑铃
     - 背：哑铃
     - 胸：俯卧撑
-    - 腹：仰卧起坐、平板支撑、俄罗斯转体
+    - 腹：仰卧起坐、平板支撑
     - 腿：深蹲
   - 有氧配合
 - 户外
@@ -86,8 +86,8 @@
   - 陆地（朝天、朝前） -> 靠墙 -> 浮板 -> 浮板抬头 -> 无支撑
   - 蛙泳换气 -> 自由泳换气
   - 单手 -> 双手
-  - 直臂划水 / 直臂推水 -> 高肘抱水（S型 / 直线）（拖肘、中线） + 推水（中线）
-  - 直臂抡臂 -> 高肘移臂
+  - 抱水 + 推水：直臂划水 / 直臂推水 -> 高肘抱水（S型 / 直线）（拖肘、中线） + 推水（中线）
+  - 抬臂 + 移臂：直臂移臂 -> 高肘移臂
   - 无节奏 -> 有节奏
 - 换气（以划手为基础）
   - 陆地 -> 靠墙 -> 浮板 -> 无支撑
@@ -109,6 +109,7 @@
   - 划手
     - 陆地
     - 浮板 + 单侧 + 二次腿
+    - 无支撑 + 单侧 + 二次腿 + 呼吸管
     - 无支撑 + 双侧 + 二次腿 + 呼吸管
   - 换气
     - 无支撑 + 双侧 + 二次腿 + 一划一换
