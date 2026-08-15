@@ -3,6 +3,7 @@
 1. build
 
 ```
+$ npm run start
 $ npm run build
 $ git add .
 $ git commit -m "docs"
