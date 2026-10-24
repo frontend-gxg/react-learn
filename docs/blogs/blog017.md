@@ -1,6 +1,7 @@
 ## 数据
 
 * [国家统计局](http://www.stats.gov.cn/)
+* [中国人民银行](https://www.pbc.gov.cn/)
 * [网上房地产](http://www.fangdi.com.cn/new_house/new_house.html)
 * [北京新发地](http://www.xinfadi.com.cn/priceDetail.html)
 
